@@ -91,6 +91,21 @@ nav ul li:last-child{
 main{
     width: 50%;
     margin-inline: auto;
-    font-size: 3rem;
     padding-top: 190px;
+}
+
+main > div{
+    padding-bottom: 70px;
+}
+
+h2{
+    font-size: 1.3rem;
+    color: #3C4043;
+    
+}
+
+p{
+    font-size: 0.9rem;
+    margin-top: 35px;
+    line-height: 1.5rem;
 }
