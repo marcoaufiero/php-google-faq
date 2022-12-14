@@ -18,6 +18,7 @@
 <body>
     
     <header>
+        
         <div class="header-top">
             <div class="header-top-left">
                 <img src="./assets/img/logo_google.png" alt="">
@@ -30,7 +31,22 @@
                 </div>
             </div>
         </div>
+
+        <nav>
+            <ul>
+                <li>Introduzione</li>
+                <li>Norme sulla privacy</li>
+                <li>Termini di servizio</li>
+                <li>Tecnologie</li>
+                <li>Domande frequenti</li>
+            </ul>
+        </nav>
+
     </header>
+
+    <main>
+        
+    </main>
 
 
 </body>
